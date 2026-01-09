@@ -1,0 +1,4 @@
+Anna;5
+Béla;3 
+Csaba;4 
+Dóra;5
